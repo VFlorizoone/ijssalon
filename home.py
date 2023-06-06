@@ -1,5 +1,3 @@
 print("Hallo Wereld")
 print("Welkom in onze ijssalon")
-print("Testje")
-print("test2")
-print("test3")
+print("Under construction")
